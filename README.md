@@ -6,9 +6,9 @@ This repo accompanies the research article - COMPLETAR COM O ARTIGO
 > *bioRxiv* ([link](https://www.biorxiv.org/content/10.1101/2022.10.31.514616v1))
 
 It contains example pipelines and minimal code necessary for:
-1. Isolating non-Saccharomyces cerevisiae genome from biorrefinary data;
-2. Read-based analisis of the contaminants reads;
-3. Statistical analisis using R.
+1. Pre-procesing_reads: Isolating non-Saccharomyces cerevisiae genome from biorrefinary data;
+2. Kraken: Read-based analisis of the contaminants reads;
+3. R_stats: Statistical analisis using R.
 
 These scripts may be used for similar inference of population dynamics 
 from metagenomic data of microbial populations. However, it is not readily 
